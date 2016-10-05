@@ -1,0 +1,22 @@
+[0mCompiling "public/js/main.js" from ["src"]...[0m
+Compiling src/vega_demo/core.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/ioc_helpers.cljs to public/js/cljs/core/async/impl/ioc_helpers.cljs
+Compiling public/js/cljs/core/async/impl/ioc_helpers.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/timers.cljs to public/js/cljs/core/async/impl/timers.cljs
+Compiling public/js/cljs/core/async/impl/timers.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async.cljs to public/js/cljs/core/async.cljs
+Compiling public/js/cljs/core/async.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/figwheel/figwheel/0.5.7/figwheel-0.5.7.jar!/figwheel/client/utils.cljs to public/js/figwheel/client/utils.cljs
+Compiling public/js/figwheel/client/utils.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/figwheel/figwheel/0.5.7/figwheel-0.5.7.jar!/figwheel/client/file_reloading.cljs to public/js/figwheel/client/file_reloading.cljs
+Compiling public/js/figwheel/client/file_reloading.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/clojurescript/1.9.229/clojurescript-1.9.229.jar!/cljs/spec/impl/gen.cljs to public/js/cljs/spec/impl/gen.cljs
+Compiling public/js/cljs/spec/impl/gen.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/clojurescript/1.9.229/clojurescript-1.9.229.jar!/clojure/walk.cljs to public/js/clojure/walk.cljs
+Compiling public/js/clojure/walk.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/clojurescript/1.9.229/clojurescript-1.9.229.jar!/cljs/spec.cljs to public/js/cljs/spec.cljs
+Compiling public/js/cljs/spec.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/clojurescript/1.9.229/clojurescript-1.9.229.jar!/cljs/repl.cljs to public/js/cljs/repl.cljs
+Compiling public/js/cljs/repl.cljs
+Copying jar:file:/Users/pkimbrel/.m2/repository/org/clojure/clojurescript/1.9.229/clojurescript-1.9.229.jar!/cljs/pprint.cljs to public/js/cljs/pprint.cljs
+Compiling public/js/cljs/pprint.cljs
